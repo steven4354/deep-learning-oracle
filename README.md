@@ -2,13 +2,12 @@
 
 Doing the exercises from "Deep Learning with Pytorch". [Amazon link](https://amazon.com)
 
-TODO:
-- do a jupyter notebook for chapter 1
+Added "Generative Deep Learning". [Amazon link](https://amazon.com)
 
 ## Getting started
 
 ```bash
-python venv myenv
+python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
 jupyter notebook

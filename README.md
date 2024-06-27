@@ -1,8 +1,8 @@
-# Deep Learning with Pytorch
+# Deep Learning Textbooks
 
-Doing the exercises from "Deep Learning with Pytorch". [Amazon link](https://amazon.com)
+Doing the exercises from "Deep Learning with Pytorch". [Amazon link](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264)
 
-Added "Generative Deep Learning". [Amazon link](https://amazon.com)
+Added "Generative Deep Learning". [Amazon link](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184)
 
 ## Getting started
 

@@ -1,4 +1,8 @@
-# Deep Learning Textbooks
+# Projects
+
+Code implementations of ML techniques 
+
+## Textbooks
 
 Doing the exercises from "Deep Learning with Pytorch". [Amazon link](https://www.amazon.com/Deep-Learning-PyTorch-Eli-Stevens/dp/1617295264)
 

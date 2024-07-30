@@ -1,6 +1,10 @@
 ## Projects
 
-Code implementations of ML techniques (multilayer perceptron, cnn, autoencoders, lstm, transformers)
+Code implementations of ML techniques 
+- multilayer perceptron
+- cnn / convolutional layer
+- autoencoder, variational autoencoder
+- recurrent nn: lstm
 
 ## Getting started
 
@@ -27,7 +31,7 @@ git lfs track "*.json"
 
 ## Data
 
-- `projects/data/full_format_recipes.json` is from this kaggle data set: https://www.kaggle.com/datasets/hugodarwood/epirecipes
+- `projects/data/full_format_recipes.json` from this kaggle data set: https://www.kaggle.com/datasets/hugodarwood/epirecipes
 
 ## Textbooks / References
 

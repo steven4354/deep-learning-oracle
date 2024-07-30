@@ -3,3 +3,6 @@
 .ipynb_checkpoints
 __pycache__
 .DS_Store
+5_lstm.py
+/projects/*.py
+/projects/*/*.py

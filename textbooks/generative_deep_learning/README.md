@@ -1,0 +1,3 @@
+# Notes
+
+See projects folder

@@ -9,6 +9,7 @@ Code implementations of ML techniques
 ## Getting started
 
 ```bash
+# Download the relevant data
 # Run the jupyter notebooks
 python3 -m venv myenv
 source myenv/bin/activate

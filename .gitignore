@@ -6,4 +6,5 @@ __pycache__
 5_lstm.py
 /projects/*.py
 /projects/*/*.py
-/data
+/projects/data
+/logs

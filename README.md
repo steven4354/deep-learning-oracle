@@ -1,19 +1,32 @@
 ## Projects
 
-Code implementations of ML techniques 
+Code implementations and notes of ML techniques
+
 - multilayer perceptron
 - cnn / convolutional layer
 - autoencoder, variational autoencoder
 - recurrent nn: lstm
+- diffusion
 
 ## Getting started
 
 ```bash
-# Download the relevant data
-# Run the jupyter notebooks
+# Activate virtual env
 python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
+```
+
+Download the data for running `/projects`
+
+```bash
+cd projects/scripts
+sh download.sh
+```
+
+Run the jupyter notebooks
+
+```bash
 jupyter notebook
 ```
 
@@ -29,10 +42,6 @@ Adding large files to git lfs
 # Replace json with any other file types that are large (.csv, h5 etc)
 git lfs track "*.json"
 ```
-
-## Data
-
-- `projects/data/full_format_recipes.json` from this kaggle data set: https://www.kaggle.com/datasets/hugodarwood/epirecipes
 
 ## Textbooks / References
 

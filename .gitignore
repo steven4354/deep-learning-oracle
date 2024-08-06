@@ -8,3 +8,4 @@ __pycache__
 /projects/*/*.py
 /projects/data
 /logs
+/projects/projects/8_diffusion/logs

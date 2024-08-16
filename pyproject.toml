@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "deep-learning-oracle"
+version = "0.1.0"
+description = ""
+authors = ["Steven Li <steven4354@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+perspective-jupyter = "^0.0.0"
+scipy = "^1.14.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -10,11 +10,10 @@ Code implementations and notes of ML techniques
 
 ## Getting started
 
+
 ```bash
-# Activate virtual env
-python3 -m venv myenv
-source myenv/bin/activate
-pip install -r requirements.txt
+poetry install
+poetry run jupyter notebook
 ```
 
 Download the data for running `/projects`
@@ -27,13 +26,13 @@ sh download.sh
 Run the jupyter notebooks
 
 ```bash
-jupyter notebook
+poetry run jupyter notebook
 ```
 
 Make sure to save new deps when installing new ones
 
 ```bash
-pip freeze requirements.txt
+poetry add <package-name>
 ```
 
 Adding large files to git lfs

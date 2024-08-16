@@ -16,6 +16,7 @@ classDiagram
         the model can understand
     }
 
+    class TextEncoder {
         +encode(tokens)
         Transforms tokens into latent
         representations capturing text semantics
